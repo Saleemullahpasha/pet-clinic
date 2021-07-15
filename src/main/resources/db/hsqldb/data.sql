@@ -54,3 +54,4 @@ INSERT INTO visits VALUES (3, 8, '2013-01-03', 'neutered');
 INSERT INTO visits VALUES (4, 7, '2013-01-04', 'spayed');
 
 /paulo - can you please review this pull request?
+/paulo - can you check now?
